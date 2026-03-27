@@ -1,0 +1,8 @@
+# IDE
+.vscode/
+
+# c build artifacts
+*.o
+
+# java build artifacts
+target/

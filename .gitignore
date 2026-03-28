@@ -2,7 +2,10 @@
 .vscode/
 
 # c build artifacts
+build/
+bin/
 *.o
+*.out
 
 # java build artifacts
 target/
